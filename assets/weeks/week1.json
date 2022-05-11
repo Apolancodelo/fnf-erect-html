@@ -1,6 +1,24 @@
 {
 	"songs": [
 		[
+			"Bopeebo",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Fresh",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
 			"Dad Battle",
 			"dad",
 			[
@@ -17,7 +35,7 @@
 	],
 	"weekBackground": "stage",
 	"weekBefore": "tutorial",
-	"storyName": "Erect Week 1",
+	"storyName": "ERECT week 1 full",
 	"weekName": "Custom Week",
 	"freeplayColor": [
 		146,
